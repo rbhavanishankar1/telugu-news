@@ -1,0 +1,13 @@
+
+.row
+{
+	text-align: center;
+    border-color: black;
+    grid-gap: 1px;
+
+}
+.col 
+{
+	border: 1.5px solid black;
+	
+}
